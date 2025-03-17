@@ -28,6 +28,7 @@
 ### 1. Agregar Amigos
 ![Agregar Amigos](screenshots/agregar-amigos.png)  
 *Captura de pantalla mostrando cómo agregar nombres a la lista.*
+[agregar_amigos.webm](https://github.com/user-attachments/assets/8deb2ea9-1a2e-467f-a85e-e034eaf6a11f)
 
 ### 2. Lista de Amigos
 ![Lista de Amigos](screenshots/lista-amigos.png)  
