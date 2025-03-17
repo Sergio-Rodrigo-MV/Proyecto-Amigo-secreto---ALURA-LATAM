@@ -26,19 +26,18 @@
 ## Capturas de Pantalla 🖼️
 
 ### 1. Agregar Amigos
-![Agregar Amigos](screenshots/agregar-amigos.png)  
+ 
 *Captura de pantalla mostrando cómo agregar nombres a la lista.*
-[agregar_amigos.webm](https://github.com/user-attachments/assets/8deb2ea9-1a2e-467f-a85e-e034eaf6a11f)
+![agregar_amigos](https://github.com/user-attachments/assets/29422cb9-4bf6-4d69-abde-a3f832bccd92)
 
-### 2. Lista de Amigos
-![Lista de Amigos](screenshots/lista-amigos.png)  
-*Captura de pantalla de la lista de amigos agregados.*
-
-### 3. Sorteo de Amigo Secreto
-![Sorteo de Amigo Secreto](screenshots/sorteo-amigo.png)  
+### 2. Sorteo de Amigo Secreto
 *Captura de pantalla del resultado del sorteo.*
+![sortear_amigos](https://github.com/user-attachments/assets/28f4e085-bb05-439d-8ff8-4c57243ea15f)
 
----
+### 3. Reiniciar juego del Amigo secreto
+*Captura de pantalla de cómo se reinicia el juego del Amigo secreto.*
+![reiniciar_amigos ](https://github.com/user-attachments/assets/cf93dffd-0aca-4c11-b0e2-a2ad6b059f68)
+
 
 
 ## Cómo Usar 🛠️
