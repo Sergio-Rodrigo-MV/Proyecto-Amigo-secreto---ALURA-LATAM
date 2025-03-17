@@ -39,12 +39,23 @@
 
 ---
 
+
 ## Cómo Usar 🛠️
 
 1. **Clona el Repositorio**:
    ```bash
    git clone https://github.com/tu-usuario/amigo-secreto.git
    cd amigo-secreto
-![Static Badge](https://img.shields.io/badge/Status-En_desarrollo-sky)
+
+## Tecnologías Utilizadas 💻
+1. HTML: Estructura de la aplicación.
+
+2. CSS: Estilos y diseño responsive.
+
+3. JavaScript: Lógica para agregar nombres, mostrar la lista y sortear un amigo secreto.
+
+
+
+![Static Badge](https://img.shields.io/badge/Status-Finalizado-skyblue)
 
 
